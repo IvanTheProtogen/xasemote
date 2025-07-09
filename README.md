@@ -4,7 +4,7 @@
 
 ![XASEMOTE](logo.png) 
 
-A module to help secure data for games on Roblox. Primarily designed for RemoteEvent security.
+A module to help protect data for games on Roblox. Primarily designed for RemoteEvent security.
 
 ## Functions 
 
